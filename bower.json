@@ -1,0 +1,10 @@
+{
+  "name": "jim_lead_gen",
+  "version": "0.0.1",
+  "main": "",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-route": "~1.4.7"
+  }
+}
